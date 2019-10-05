@@ -336,8 +336,11 @@
 #define KEY_RFKILL		247	/* Key that controls all radios */
 
 #define KEY_MICMUTE		248	/* Mute / unmute the microphone */
+
 #define KEY_HALL_OPEN   0x222
 #define KEY_HALL_CLOSE  0x223
+
+#define KEY_PTTBTN      249 /* PTT HEADSET Button */
 
 /* Code 255 is reserved for special needs of AT keyboard driver */
 
